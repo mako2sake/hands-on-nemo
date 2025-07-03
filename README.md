@@ -1,10 +1,7 @@
 # hands-on-nemo
 
 - [NVIDIA/NEMo](https://github.com/NVIDIA/NeMo/tree/main)
-  - `wget -P {ダウンロード先} {ダウンロードしたいファイルのGitHubのrawリンク}
-
-https://raw.githubusercontent.com/NVIDIA/NeMo/refs/heads/main/tutorials/01_NeMo_Models.ipynb
-
+  - `wget -P {ダウンロード先} {ダウンロードしたいファイルのGitHubのrawリンク}`
 
 ## License Notice
 
